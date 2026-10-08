@@ -44,7 +44,7 @@ This repository contains practical implementations and test verifications for:
 
 ```text
 
-plsql-goto-functions-29005-ARIELLA/
+plsql-goto-functions-29005-Kevin/
 
 ├── README.md
 
